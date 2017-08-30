@@ -19,17 +19,17 @@ I can see your completion via Datacamp, so there’s no need to submit anything.
 
 ## Docker (5 points)
 
-Read this article:
+1. Read this article:
 https://www.dataquest.io/blog/docker-data-science/
-
 Write a short paragraph (~100 words) on why we should use Docker for data science.  
 
-Download Docker: 
+2. Download Docker: 
 https://www.docker.com/community-edition#/download
-
 Set up Docker image for dataquestio/python3-starter using the instructions from the Dataquest article above.  Capture a screenshot of your laptop to prove your setup is complete.
 
-Submit the paragraph and the screenshot on Github Classroom via the link below.  Please note that you will need to create a new repo and link it to this submission.    https://classroom.github.com/a/dF9Y9lE4.  
+3. Submission:
+We will be submitting via Github Classroom.  Use this link for homework #1 submission: https://classroom.github.com/a/dF9Y9lE4
+Following the link will create a private repo that has the format homework1-[yourname], which then I will be able to grade and provide feedback.  Upload your paragraph and screenshot onto that repo.  Interested in how this flow works?  Check out this [read on Github Classroom](https://github.com/blog/2387-learn-by-doing-at-cal-poly-with-github-and-raspberry-pi).  
 
 Please note that late submission can be tracked via Github Classroom.
 
