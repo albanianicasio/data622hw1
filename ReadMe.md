@@ -27,7 +27,7 @@ https://www.docker.com/community-edition#/download
 Set up Docker image for dataquestio/python3-starter using the instructions from the Dataquest article above.  Capture a screenshot of your laptop to prove your setup is complete.
 
 3. Submission:
-We will be submitting via Github Classroom.  Your url for this page should read something like: github.com/cuny-sps-msda-data622-2017fall/homework-1-[your github handle].  This is your own cloned private repo for this assignment and I will be able to see and grade whatever you upload to this repo.  Interested in how Github Classroom workflow works?  Check out this [read on Github Classroom](https://github.com/blog/2387-learn-by-doing-at-cal-poly-with-github-and-raspberry-pi).  
+We will be submitting via Github Classroom.  Your url for this page should read something like: github.com/cuny-sps-msda-data622-2017fall/homework-1-[your github handle].  This is your own cloned private repo for this assignment and I will be able to see and grade whatever you upload to this repo.  Interested in how Github Classroom workflow works?  Check out [this read on Github Classroom](https://github.com/blog/2387-learn-by-doing-at-cal-poly-with-github-and-raspberry-pi).  
 
 Please note that late submission can be tracked via Github Classroom.
 
