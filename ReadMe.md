@@ -1,4 +1,4 @@
-### DATA622 HW #1
+## DATA622 HW #1
 
 - Assigned on August 30, 2017
 - Due on September 13, 2017 11:59 PM EST
