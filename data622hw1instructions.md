@@ -34,4 +34,4 @@ Please note that late submission can be tracked via Github Classroom.
 
 
 
-Questions?  Start with Slack!
+## Questions?  Start with Slack!
