@@ -1,4 +1,5 @@
 ## DATA622 HW #1
+
 Assigned on August 30, 2017
 Due on September 13, 2017 11:59 PM EST
 15 points possible, worth 15% of your final grade
